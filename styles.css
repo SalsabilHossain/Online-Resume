@@ -1,52 +1,53 @@
 body{
-    background-color: lightgrey;
+    background-image: url("back.jpg");
     line-height: 0;
 }
 
 .card{
-    background-color:black;
-    width: 70%;
-    padding: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: auto;
-    box-shadow: 0 16px 16px 0 rgba(5,5,5,5);
+    
+    min-height: 700px;
+    margin-top: 100px;
+    
+    
     
 }
 
-img{
-    width: 80%;
-    display: block;
-    box-shadow: 0 16px 16px 0 rgba(223, 213, 213, 0);
-
+#dashboard{
+    
+    
 }
-
 p{
-    font-size: xx-large;
-    color: white;
-    line-height: 1.5;
-    margin: 2px;
+margin-left: 20px;
+margin-top:20px;
+}
+
+
+
+
+
+
+#leftcard{
+    width: 350px;
+    margin-left: 250px;
+    
+    
     
 }
-
-.img-fluid{
-    margin-top: 300px;
+#middlecard{
+    margin-left: 50px;
+    width: 850px;
 }
 
-button{
-    background-color: hotpink;
+#content{
+    
+    margin: 70px;
 }
 
-img{
-    display: block;
-    width: 60%;
-    margin-top: 40px;
+#btn1{
+    margin: 15px;
+    background-color:pink;
+    width: 200px;
+    color: black;
 }
-.btn{
-    color:black;
-    background-color:lightgrey;
-    width: 60%;
-    margin-bottom: 10px;
-    margin-top: 20px;
-}
+
+

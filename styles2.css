@@ -14,3 +14,7 @@ body{
 a{
     background-color: indianred;
 }
+
+#content{
+    margin: 100px;
+}
